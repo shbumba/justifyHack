@@ -1,0 +1,25 @@
+{
+  "name": "justifyHack",
+  "version": "1.0.0",
+  "description": "A simple function that allows you to expose the same height as the block and the elements inside it.",
+  "main": "src.js",
+  "scripts": {},
+  "files": [
+    "*.js",
+    "*.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitaly63/justifyHack"
+  },
+  "author": "Vitaly Fomin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitaly63/justifyHack/issues"
+  },
+  "homepage": "https://github.com/vitaly63/justifyHack",
+  "devDependencies": {},
+  "dependencies": {
+    "jquery": "^1.11.1"
+  }
+}
