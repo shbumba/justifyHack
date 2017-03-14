@@ -1,4 +1,4 @@
-(function () {
+$(function () {
     $('[data-justify]').each(function () {
         var that = $(this), //Область в которой пройдет инициализация скрипта, и поиск дочерних элементов исходя из объекта justifyJson
             justify = $(this).attr('data-justify'),//Объект с параметрами для выравнивания.
